@@ -1,4 +1,4 @@
-# Sopa de Letras - README
+# Sopa de Letras
 
 ## Descripción
 Este proyecto es un juego interactivo de Sopa de Letras desarrollado en HTML, CSS y JavaScript. Los usuarios pueden buscar palabras relacionadas con un tema navideño dentro de una cuadrícula y ganar puntos al encontrarlas. El juego incluye un temporizador para agregar un desafío adicional.
